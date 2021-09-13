@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992660065660",
+    "project_id": "onlinechat-8bdeb",
+    "storage_bucket": "onlinechat-8bdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992660065660:android:40deed19c656a12d9028f9",
+        "android_client_info": {
+          "package_name": "com.nasr.onlinechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992660065660-5nb2mf3gb6eoehc05q56lmsmnuo1e40p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gxYQtoWPP1O3Jth4MODE0D4uz0EcdcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992660065660-5nb2mf3gb6eoehc05q56lmsmnuo1e40p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
